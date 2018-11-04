@@ -6,10 +6,9 @@ Love Furniture UK
 <body>
 
 <?php
-echo "My first PHP script! in branch 1-feature";
+echo "My first PHP script! in branch 1-feature, another change";
 
 ?>
 
 </body>
 </html> 
-
